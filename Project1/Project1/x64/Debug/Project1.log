@@ -1,0 +1,9 @@
+﻿  hashsep.c
+c:\zmyfiles\uet_semesters\semester4\data_structures_and_algorithms\project\hashsep.c(256): warning C4101: 'runtime': unreferenced local variable
+c:\zmyfiles\uet_semesters\semester4\data_structures_and_algorithms\project\hashsep.c(255): warning C4101: 'end': unreferenced local variable
+c:\zmyfiles\uet_semesters\semester4\data_structures_and_algorithms\project\hashsep.c(255): warning C4101: 'start': unreferenced local variable
+c:\zmyfiles\uet_semesters\semester4\data_structures_and_algorithms\project\hashsep.c(496): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  testhash.c
+  tree.c
+  Generating Code...
+  Project1.vcxproj -> C:\zmyFIles\UET_SEMESTERS\semester4\data_structures_and_algorithms\Project\Project1\x64\Debug\Project1.exe
